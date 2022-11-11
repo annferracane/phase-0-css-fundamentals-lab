@@ -20,12 +20,14 @@ figcaption {
   font-size: small;
 }
 
+section#featured-property {
+  margin-right:auto;
+  margin-left:auto;
+}
 
 section#featured-property p {
   width: 800px;
   text-align: center;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 section#details div {

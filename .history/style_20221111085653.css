@@ -6,6 +6,7 @@ body {
 
 h1,
 nav,
+
 figure {
   text-align: center;
 }
@@ -20,12 +21,14 @@ figcaption {
   font-size: small;
 }
 
+section#featured-property {
+  display: flex;
+  justify-content: center;
+}
 
 section#featured-property p {
   width: 800px;
   text-align: center;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 section#details div {

@@ -6,7 +6,8 @@ body {
 
 h1,
 nav,
-figure {
+figure,
+section {
   text-align: center;
 }
 
@@ -20,17 +21,11 @@ figcaption {
   font-size: small;
 }
 
-
 section#featured-property p {
   width: 800px;
   text-align: center;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 section#details div {
   float: left;
-  background-color: red;
-  text-align: center;
-  width: 25%;
 }
